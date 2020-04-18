@@ -1,5 +1,7 @@
 # diablo3
 
+[url](https://goofy-tesla-9e1bd8.netlify.app/#/)
+
 ## Project setup
 ```
 npm install
